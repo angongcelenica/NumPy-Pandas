@@ -1,4 +1,4 @@
-# Numpy
+# Numpy & Pandas
 Numpy is a great tool for data analysis on arrays, which performs various tasks and handles large datasets effectively and efficiently at fast speeds. NumPy arrays were created in order to overcome the issue of not being able to calculate effectively and efficiently, due to arrays being more simpler to create. Arrays are described as a collection of values that can have one or more dimensions. An array with one dimension is normally known as a vector and two dimensions is a matrix. As you can see below I explored the basic NumPy functions to create arrays, do some basic calculations as well as reshaping or slicing arrays.
 
 
