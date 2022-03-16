@@ -20,3 +20,7 @@ Pandas is a library Python which is also used in addition with other packages su
 ![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandascsv5.png)
 
 ## Data Vizualisations
+
+![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandaviz1.png)
+![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandaviz2.png)
+![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandaviz3.png)
