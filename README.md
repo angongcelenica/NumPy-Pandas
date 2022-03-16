@@ -11,4 +11,4 @@ Numpy is a great tool for data analysis on arrays, which performs various tasks 
 
 ## Pandas
 
-Pandas is a library for use with Python and can be used to build on other packages with this software library. As previously discussed before it can be used for data manipulation, analysis and visualisation because of how easy it is to import, visualise and analyse data. 
+Pandas is a library for use with Python and on other packages with this software library such as NumPy. As previously discussed before it can be used for data manipulation, analysis and visualisation because of how easy it is to import, visualise and analyse data. 
