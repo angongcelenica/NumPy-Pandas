@@ -11,4 +11,7 @@ Numpy is a great tool for data analysis on arrays, which performs various tasks 
 
 ## Pandas
 
-Pandas is a library for use with Python and on other packages with this software library such as NumPy. As previously discussed before it can be used for data manipulation, analysis and visualisation because of how easy it is to import, visualise and analyse data. I used Jupyterlab to create a dataframe using NumPy and Pandas to import external data from a CSV file to analyse the data. 
+Pandas is a library Python which is also used in addition with other packages such as NumPy. As previously discussed it can be used for data manipulation, analysis and visualisation because of how easy it is to import, visualise and analyse data. I used Jupyter Notebook to import external data from a CSV file to analyse the data using Pandas and NumPy. As you can see below is a hypothetical example of analysing the data for stakeholders that want to know which holiday destination and hotel is the most popular and what the highest ratings are. This allows the stakeholders to see what business decisions they need to make depending on the results of the data such as removing the worst rated destination off their website.
+
+![]
+
