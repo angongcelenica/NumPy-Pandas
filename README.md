@@ -21,6 +21,8 @@ Pandas is a library Python which is also used in addition with other packages su
 
 ## Data Vizualisations
 
+In addition to analysing the data the next step in the process is to visualise the data to simplify and communicate the data so the stakeholders are able to understand the results. Below it shows a scatter plot to visulaise the correlation between all-inclusive hotels and score which does show that the more all-inclusive hotels there are the more likely the score of the destination will be higher. I also created a bar chart to visualise all the destinations and their score.
+
 ![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandaviz1.png)
 ![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandaviz2.png)
 ![](https://github.com/angongcelenica/NumPy-Pandas/blob/main/numpy_images/pandaviz3.png)
