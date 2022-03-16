@@ -3,3 +3,4 @@ Numpy is a great tool for data analysis on arrays which performs various tasks a
 
 
 ![](/images/numpy1.png)  
+![](/images/numpy2.png)
